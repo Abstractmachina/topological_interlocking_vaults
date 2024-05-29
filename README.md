@@ -13,3 +13,11 @@ The Toolkit has been deployed at the following:
 * Advances in Architectural Geometry 2020, Workshop 3: ReCycled. Sustainable strategies for robotic fabrication of segmented shells
 
 Please reach out to Elena shilova.arch@gmail.com or Taole taole.chen@protonmail.com with questions on how to use the tool or suggestions about improving it.
+
+![closeup of interlocking assembly](/images/04.jpeg)
+![examples of interlocking components](/images/07.jpeg)
+![workshop poster](/images/05.jpeg)
+![catalog of patterns](/images/01.jpeg)
+![examples](/images/02.jpeg)
+![examples](/images/03.jpeg)
+![physical prototype](/images/06.jpeg)
